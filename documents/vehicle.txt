@@ -1,0 +1,8 @@
+vehicle example : 
+we have a complete project, vehicle management for all OOPS concept.
+every vehicle have some properties : Name, Modal, Price, Wheels, Fuel Type, Chesis number(private), engine number(private)
+Every vehicle have some methods :
+getFormattedList();
+getVehicleDetails(); by vehicle id
+
+here we will create a database class for connection, we can use interface for this, we can create static method for this, so we will have only one instance while creating mulitple  object of the class.

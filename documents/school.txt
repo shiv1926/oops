@@ -1,0 +1,22 @@
+this is an example of school for oops concepts : 
+school section : pre-primary, primary, middle, higher, higher secondry
+getStudentCount(); in school, in all section
+getSectionDressColor();
+
+==================================================================
+
+vehicle example : 
+we have a complete project, vehicle management for all OOPS concept.
+every vehicle have some properties : Name, Modal, Price, Wheels, Fuel Type, Chesis number(private), engine number(private)
+Every vehicle have some methods :
+getFormattedList();
+
+============================================================================
+
+mobile example : 
+
+=================================================================================
+
+fruits example : 
+
+animal example : 
