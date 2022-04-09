@@ -4,7 +4,6 @@
 		<a href="tutorial/introduction.php">Introduction</a>
 		<ul>
 			<li><a href="tutorial/benefits-oops.php">Benefits / features of OOPS</a></li>
-			<li><a href="tutorial/benefits-oops.php">OOPS VS Procedural programming</a></li>
 		</ul>
 	</li>
 	<li>
